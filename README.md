@@ -7,7 +7,7 @@
 
 # 🚀 IoT Ultrasonic Distance Monitoring dengan ESP32 + ThingSpeak
 
-<img width="700" height="400" alt="" src="https://github.com/user-attachments/assets/74f879be-217a-466a-990b-5b20627aeaa0" />
+<img width="300" height="700" alt="" src="https://github.com/user-attachments/assets/74f879be-217a-466a-990b-5b20627aeaa0" />
 
 ## Deskripsi
 Proyek ini menggunakan **ESP32**, **sensor ultrasonik (HC-SR04)**, dan **buzzer** untuk mendeteksi jarak objek.  
