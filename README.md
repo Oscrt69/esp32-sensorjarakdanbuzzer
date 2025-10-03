@@ -39,7 +39,7 @@ Fitur utama:
 ## 📊 Hasil di ThingSpeak
 Data akan tampil dalam grafik seperti berikut:
 
-![ThingSpeak Chart](https://thingspeak.com/channels/3095428/charts/1)
+<img width="700" height="3750" src="https://github.com/user-attachments/assets/d923a4a0-8e31-4197-ae94-d9972f792b99"/>
 
 ## 🔑 Konfigurasi
 Sebelum upload, ubah bagian berikut pada kode:
