@@ -2,7 +2,7 @@
 
 | Nama                         | Nrp        |
 | ---------------------------- | ---------- |
-| Evan Christian Nainggolan  | 5027241053 |
+| Evan Christian Nainggolan  | 5027241026 |
 | Oscaryavat Viryavan          | 5027241053 |
 
 # 🚀 IoT Ultrasonic Distance Monitoring dengan ESP32 + ThingSpeak
